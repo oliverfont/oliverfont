@@ -17,7 +17,7 @@
 ---
 
 ### 🏗️ **Project Overview:**  
-**Les Enduits d'Eugénie** is a **responsive website** designed for a professional craftsman specializing in lime coatings and decorative finishes.  
+**Les Enduits d'Eugénie** is a **responsive website** designed for a professional craftswoman specializing in lime coatings and decorative finishes.  
 
 ### 🌟 **Key Features:**  
 ✅ **Responsive Design:** Optimized for desktop and mobile devices.  
