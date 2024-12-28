@@ -28,7 +28,7 @@
 ### 🛠️ **Technologies Used:**  
 - **Frontend:** React.js, JavaScript, CSS3  
 - **Backend:** Node.js, Express.js, Nodemailer  
-- **Tools:** EmailJS, GitHub Actions, Vercel  
+- **Tools:** EmailJS, GitHub Actions, Render  
 
 ### 🌐 **Live Demo:**  
 👉 [Live Website](https://les-enduits-deugenie.fr)  
