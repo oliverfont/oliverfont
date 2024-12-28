@@ -33,9 +33,6 @@
 ### 🌐 **Live Demo:**  
 👉 [Live Website](https://les-enduits-deugenie.fr)  
 
-### 📚 **Repository:**  
-👉 [GitHub Repository](https://github.com/oliverfont/les-enduits-d-eugenie)  
-
 ---
 
 ## 💬 Contact Me
