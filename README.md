@@ -35,6 +35,18 @@
 
 ---
 
+## 🔄 Continuous Learning
+
+### Currently Exploring:
+- **Mobile Development:** Flutter, Dart  
+- **Advanced Backend Frameworks:** Nest.js  
+- **Static Typing:** TypeScript  
+- **DevOps Tools:** Docker, Kubernetes  
+- **CSS Frameworks:** Tailwind CSS  
+- **3D in Web:** Three.js  
+
+---
+
 ## 💬 Contact Me
 
 📧 **Email:** [oliverfont@protonmail.com](mailto:oliverfont.com)  
